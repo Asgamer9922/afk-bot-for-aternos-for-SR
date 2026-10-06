@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "anobicsmp.aternos.me",
-    "port":28429 ,
+    "port": 28429,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "AFKBOTOP"
+      "password": "SoloPlayz"
     },
     "anti-afk": {
       "enabled": true,
